@@ -1,1 +1,8 @@
-# EDM--Midterm-Lab-Task
+### EDM Midterm Lab Task
+This is my Lab task 1
+### About me
+My name is Sean Dave Magkaisa
+### Skills
+- Learned C, C++, JAVA
+### Education
+- College: City College of Angeles (1ST YEAR STUDENT (BS INFORMATION SYSTEM))
