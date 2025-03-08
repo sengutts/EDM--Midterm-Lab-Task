@@ -26,7 +26,7 @@ Load the raw file
 
 
 ### STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
-<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+<img src="Images/senerd.png" alt="Alt Text" width="400" height="300">
 
 ### Here's the Physical Data Model
 <img src="images/one.JPG" alt="Alt Text" width="400" height="300">
