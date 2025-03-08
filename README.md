@@ -1,5 +1,5 @@
 ### EDM Midterm Lab Task
-This is my Lab Task 1
+This is my Lab Task 
 ### About me
 My name is Sean Dave Magkaisa
 ### Skills
