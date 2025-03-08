@@ -22,8 +22,11 @@ Load the raw file
 - Mapped the Normalized tables as a Physical Data Model
 
 ### STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot)
-
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
 
 
 ### STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)
-Here's the Physical Data Model
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+
+### Here's the Physical Data Model
+<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
