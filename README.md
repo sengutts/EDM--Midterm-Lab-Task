@@ -9,4 +9,3 @@ My name is Sean Dave Magkaisa
  ### My Projects
  - Midterm Lab Task 1:
  - Midterm Lab Task 2:
- - 
