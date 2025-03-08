@@ -9,4 +9,3 @@ My name is Sean Dave Magkaisa
 
 ### My Projects
  - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](EDM%20%20Midterm%20Task%201/README.md)
- - Midterm Lab Task 2:
