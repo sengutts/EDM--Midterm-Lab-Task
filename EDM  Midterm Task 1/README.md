@@ -29,4 +29,4 @@ Load the raw file
 <img src="Images/cleanseans.png" alt="Alt Text" width="600" height="500">
 
 ### Here's the Physical Data Model
-<img src="Images/cleanseans.png" alt="Alt Text" width="600" height="500">
+<img src="Images/senerd.png" alt="Alt Text" width="600" height="500">
