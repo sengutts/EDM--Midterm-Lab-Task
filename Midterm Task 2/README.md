@@ -27,6 +27,7 @@ Sample Output
 
 ## Here’s the screenshots of my final output (See screenshots)
 Sal by Role Type Sample Output
+<img src="Images/rww.jpg" alt="Alt Text" width="600" height="500">
 Sal by Size Sample Output
 Sal by Size Role Type Sample Output
 Sal by State Sample Output
