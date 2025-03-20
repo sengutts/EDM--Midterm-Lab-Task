@@ -26,10 +26,10 @@ Here’s the screenshot of my output before doing Cleaning and Transformation (S
 Sample Output
 
 ## Here’s the screenshots of my final output (See screenshots)
-Sal by Role Type Sample Output
-<img src="Images/rww.jpg" alt="Alt Text" width="600" height="500">
-Sal by Size Sample Output
-Sal by Size Role Type Sample Output
-Sal by State Sample Output
-Here’s the Query Dependencies
-Sample Output
+- Sal by Role Type Sample Output
+<img src=(https://github.com/sengutts/EDM--Midterm-Lab-Task/blob/main/Midterm%20Task%202/Images/Sal%20By%20Role%20Type%20dup.jpg)" alt="Alt Text" width="600" height="500">
+- Sal by Size Sample Output
+- Sal by Size Role Type Sample Output
+- Sal by State Sample Output
+- Here’s the Query Dependencies
+- Sample Output
