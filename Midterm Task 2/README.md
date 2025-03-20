@@ -27,9 +27,12 @@ Sample Output
 
 ## Here’s the screenshots of my final output (See screenshots)
 - Sal by Role Type Sample Output
-<img src=(https://github.com/sengutts/EDM--Midterm-Lab-Task/blob/main/Midterm%20Task%202/Images/Sal%20By%20Role%20Type%20dup.jpg)" alt="Alt Text" width="600" height="500">
+<img src="Images/Sal By Role Type dup.jpg" alt="Alt Text" width="900" height="500">
 - Sal by Size Sample Output
+- <img src="Images/Sal By Size ref.jpg" alt="Alt Text" width="900" height="500">
 - Sal by Size Role Type Sample Output
 - Sal by State Sample Output
+-  <img src="Images/Sal By State ref.jpg" alt="Alt Text" width="900" height="500">
 - Here’s the Query Dependencies
+-  <img src="Images/Physical Model.jpg" alt="Alt Text" width="900" height="500">
 - Sample Output
