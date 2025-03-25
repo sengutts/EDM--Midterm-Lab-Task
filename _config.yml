@@ -1,31 +1,12 @@
-# Welcome to my GitHub configuration file!
-# A minimalistic and clean approach to settings
+title: Portfolio
+description: A minimalist, clean Jekyll site powered by Minimal Mistakes
+url: "https://your-username.github.io"
+baseurl: "/your-repo-name" # Optional: If your site is a project page
 
-# Repository settings
-name: My Cool Project
-description: |
-  A simple but aesthetically pleasing project for all your needs.
-  A beautiful repository for developers who love clean code.
+theme: "minimal-mistakes-jekyll"
 
-# Maintain repository's default branch
-default_branch: main
+# For GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes-jekyll@latest"
 
-# Set the repository visibility (private or public)
-visibility: public
-
-# Create custom labels to make your issues and pull requests more organized
-labels:
-  - bug
-  - feature
-  - enhancement
-  - documentation
-  - help wanted
-
-# Actions and workflows
-workflows:
-  # Build & Test
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout
+# Optional: Set your own logo
+logo: "/assets/images/logo.png"
