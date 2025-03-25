@@ -17,16 +17,16 @@ Load Data: Open Worksheet on Uncleaned DS Jobs and the transform tables
 ## STEP 3 - Design Your Dashboard
 
 - Insert Chart:
-<img src="Images/DASHBOARD1.png" alt="Alt Text" width="700" height="500">
+<img src="Images/DASHBOARD1.png" alt="Alt Text" width="900" height="500">
 Salary by Role Chart: Select your PivotTable for Salary by Role, and then go to Insert > Recommended Charts. Choose a Bar Chart or Column Chart for this.
 Salary by State Chart: Similarly, select the PivotTable for Salary by State and insert a Bar Chart or Column Chart.
 Salary by Size Chart: Use a Pie Chart or Bar Chart for visualizing Salary by Size.
 - Map Chart:
-<img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="700" height="500">
+<img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="900" height="500">
 If you want to use a Map Chart for Salary by State, select the State and Salary data from your PivotTable, and then go to Insert > Maps > Filled Map. Ensure that your state names are recognized by Excel for map generation.
 ## STEP 4 - Insert Slicers for Interactivity
 - Insert Slices:
-<img src="Images/PIVOT.png" alt="Alt Text" width="700" height="500">
+<img src="Images/PIVOT.png" alt="Alt Text" width="900" height="500">
 Select a PivotTable (e.g., Salary by Role) and go to Insert > Slicer.
 Choose the fields you want to filter by, such as State, Size, or Role.
 Repeat this for other PivotTables as needed.
@@ -38,8 +38,8 @@ Connect Slicers: Right-click slicer → Report Connections → select all releva
 
 ## STEP 7 - Insert Dashboard
 Alt Text
-<img src="Images/DASHBOARD1.png" alt="Alt Text" width="700" height="500">
-<img src="Images/DASHBOARD2.png" alt="Alt Text" width="700" height="500">
+<img src="Images/DASHBOARD1.png" alt="Alt Text" width="900" height="500">
+<img src="Images/DASHBOARD2.png" alt="Alt Text" width="900" height="500">
 
 
 ## STEP 8 - Insert Map
