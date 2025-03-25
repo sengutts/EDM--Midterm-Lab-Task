@@ -36,3 +36,8 @@ Sample Output
 - Here’s the Query Dependencies
 -  <img src="Images/Physical Model.jpg" alt="Alt Text" width="900" height="500">
 - Sample Output
+- <img src="Images/Sal By Role Type dup.jpg" alt="Alt Text" width="900" height="500">
+- <img src="Images/Sal By Size ref.jpg" alt="Alt Text" width="900" height="500">
+- <img src="Images/Sal By State ref.jpg" alt="Alt Text" width="900" height="500">
+- <img src="Images/Uncleaned_data.jpg"Alt Text" width="900" height="500">
+
