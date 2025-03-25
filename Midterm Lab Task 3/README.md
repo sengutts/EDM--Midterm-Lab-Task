@@ -5,17 +5,14 @@ focusing on building the Dashboard with the necessary Pivot Tables, charts, and 
 Load Data: Open Worksheet on Uncleaned DS Jobs and the transform tables
 
 ## Step 2 - Pivot Table Creation
-Sal by Role:
+- Sal by Role:
+<img src="Images/SAL_ROLE.png" alt="Alt Text" width="900" height="500">
 
-Alt Text
+- Sal by State:
+<img src="Images/SAL_STATE.png" alt="Alt Text" width="900" height="500">
+- Sal by Size:
 
-Sal by State:
-
-Alt Text
-
-Sal by Size:
-
-Alt Text
+<img src="Images/SAL_SIZE.png" alt="Alt Text" width="900" height="500">
 
 ## STEP 3 - Design Your Dashboard
 Insert Chart:
