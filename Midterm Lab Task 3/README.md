@@ -37,7 +37,6 @@ Color Customization: Home → Cell Styles or manually color chart elements. Char
 Connect Slicers: Right-click slicer → Report Connections → select all relevant PivotTables. Test Interactivity: Click slicer options to verify filtering updates the dashboard.
 
 ## STEP 7 - Insert Dashboard
-Alt Text
 <img src="Images/DASHBOARD1.png" alt="Alt Text" width="900" height="500">
 <img src="Images/DASHBOARD2.png" alt="Alt Text" width="900" height="500">
 
