@@ -25,12 +25,14 @@ Salary by Size Chart: Use a Pie Chart or Bar Chart for visualizing Salary by Siz
 - Map Chart:
 <img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="900" height="500">
 If you want to use a Map Chart for Salary by State, select the State and Salary data from your PivotTable, and then go to Insert > Maps > Filled Map. Ensure that your state names are recognized by Excel for map generation.
+
 ## STEP 4 - Insert Slicers for Interactivity
 - Insert Slices:
 <img src="Images/PIVOT.png" alt="Alt Text" width="900" height="500">
 Select a PivotTable (e.g., Salary by Role) and go to Insert > Slicer.
 Choose the fields you want to filter by, such as State, Size, or Role.
 Repeat this for other PivotTables as needed.
+
 ## STEP 5 - Apply Design and Color Customizations
 Color Customization: Home → Cell Styles or manually color chart elements. Chart Design: Select chart → Chart Tools → Design.
 
