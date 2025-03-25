@@ -22,6 +22,7 @@ Salary by Role Chart: Select your PivotTable for Salary by Role, and then go to 
 Salary by State Chart: Similarly, select the PivotTable for Salary by State and insert a Bar Chart or Column Chart.
 Salary by Size Chart: Use a Pie Chart or Bar Chart for visualizing Salary by Size.
 
+
 - Map Chart:
 <img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="900" height="500">
 If you want to use a Map Chart for Salary by State, select the State and Salary data from your PivotTable, and then go to Insert > Maps > Filled Map. Ensure that your state names are recognized by Excel for map generation.
