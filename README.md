@@ -11,4 +11,4 @@ I’m passionate about learning programming languages and exploring areas like [
 ### My Projects
  - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/EDM%20%20Midterm%20Task%201)
  - Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Midterm%20Task%202)
- - Midterm Lab Task 3:
+ - Midterm Lab Task 3: [Data Cleaning and Transformation using POWER QUERY](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Midterm%20Lab%20Task%203)
