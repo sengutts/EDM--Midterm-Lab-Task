@@ -1,12 +1,4 @@
 title: Portfolio
-description: A minimalist, clean Jekyll site powered by Minimal Mistakes
-url: "https://your-username.github.io"
-baseurl: "/your-repo-name" # Optional: If your site is a project page
-
-theme: "minimal-mistakes-jekyll"
-
-# For GitHub Pages
-remote_theme: "mmistakes/minimal-mistakes-jekyll@latest"
-
-# Optional: Set your own logo
-logo: "/assets/images/logo.png"
+description: This is my Github Portfolio's
+show_downloads: true
+google_analytics:
