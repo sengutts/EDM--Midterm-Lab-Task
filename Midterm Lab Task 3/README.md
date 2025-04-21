@@ -30,7 +30,7 @@ If you want to use a Map Chart for Salary by State, select the State and Salary 
 
 ## STEP 4 - Insert Slicers for Interactivity
 - Insert Slices:
-<img src="Images/PIVOT.png" alt="Alt Text" width="900" height="500">
+<img src="Images/PIVOT.png" alt="Alt Text" width="600" height="400">
 Select a PivotTable (e.g., Salary by Role) and go to Insert > Slicer.
 Choose the fields you want to filter by, such as State, Size, or Role.
 Repeat this for other PivotTables as needed.
