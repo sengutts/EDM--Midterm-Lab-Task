@@ -9,4 +9,10 @@
 ## Create an attendees table with fields
 - attendee_id (int, auto-increment, primary key)
 - attendee_name (VARCHAR, up to 255 characters, not null)
-  <img src="Images/tableattendees1.png" alt="Alt Text" width="700" height="500">
+<img src="Images/tableattendees1.png" alt="Alt Text" width="700" height="500">
+
+## Create an event attendees table with fields
+- event_id (int, foreign key to events.event_id)
+- attendee_id (int, foreign key to attendees.attendee_id)
+- Composite primary key on (event_id, attendee_id)
+<img src="Images/attendeesforeign.png" alt="Alt Text" width="700" height="500">
