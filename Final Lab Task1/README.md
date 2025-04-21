@@ -24,4 +24,4 @@
 <img src="Images/sponnsors.png" alt="Alt Text" width="500" height="300">
 
 ## EER Diagram
-<img src="FImages/eer.png" alt="Alt Text" width="500" height="300">
+<img src="Images/eer.png" alt="Alt Text" width="500" height="300">
