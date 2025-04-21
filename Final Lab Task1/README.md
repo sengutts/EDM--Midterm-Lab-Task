@@ -4,4 +4,5 @@
 
 - event_id (int, auto-increment, primary key)
 - event_name (VARCHAR, up to 255 characters, not null)
+<img src="Images/create table events1.png" alt="Alt Text" width="700" height="500">
 
