@@ -25,7 +25,7 @@ Salary by Size Chart: Use a Pie Chart or Bar Chart for visualizing Salary by Siz
 
 
 - Map Chart:
-<img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="900" height="500">
+<img src="Images/DASHBOARDMAP.png" alt="Alt Text" width="600" height="400">
 If you want to use a Map Chart for Salary by State, select the State and Salary data from your PivotTable, and then go to Insert > Maps > Filled Map. Ensure that your state names are recognized by Excel for map generation.
 
 ## STEP 4 - Insert Slicers for Interactivity
