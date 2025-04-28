@@ -39,7 +39,7 @@ data TEXT,
         ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-INSERT INTO student_tb (username) VALUES ('Naythan'), ('Levy');
+INSERT INTO student_tb (username) VALUES ('Sean'), ('Gutts');
 
 INSERT INTO assignment_tb (shortname, due_date, url) 
 VALUES 
@@ -87,7 +87,7 @@ data TEXT,
         ON DELETE CASCADE ON UPDATE CASCADE
 );
 
-INSERT INTO student_tb (username) VALUES ('Naythan'), ('Levy');
+INSERT INTO student_tb (username) VALUES ('Sean'), ('Gutts');
 
 INSERT INTO assignment_tb (shortname, due_date, url) 
 VALUES 
