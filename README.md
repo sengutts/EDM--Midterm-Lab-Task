@@ -16,3 +16,5 @@ I’m passionate about learning programming languages and exploring areas like [
 ### Final Task
  - Final Lab Task 1: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task1)
  - Final Lab Task 2: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%202)
+ - Final Lab Task 3: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%203)
+
