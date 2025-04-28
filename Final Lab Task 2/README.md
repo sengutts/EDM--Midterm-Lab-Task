@@ -96,9 +96,9 @@ VALUES
 
 INSERT INTO submission_tb (username, shortname, version, submit_date, data)
 VALUES
-('Naythan', 'EDM19', 1, '2025-04-21', 'First Submission by Naythan'),
-('Naythan', 'EDM19', 2, '2025-04-21', 'Updated Submission by Naythan'),
-('Levy', 'NCMA219', 1, '2025-05-12', 'Submission by Levy');
+('Sean', 'EDM19', 1, '2025-04-21', 'First Submission by Sean'),
+('Sean', 'EDM19', 2, '2025-04-21', 'Updated Submission by Sean'),
+('Gutts', 'NCMA219', 1, '2025-05-12', 'Submission by Gutts');
 
 SELECT * FROM student_tb;
 
