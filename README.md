@@ -15,3 +15,4 @@ I’m passionate about learning programming languages and exploring areas like [
  - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Midterm%20Lab%20Task%203)
 ### Final Task
  - Final Lab Task 1: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task1)
+ - Final Lab Task 2: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%202)
