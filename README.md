@@ -17,5 +17,5 @@ I’m passionate about learning programming languages and exploring areas like [
  - Final Lab Task 1: [Creating Database Events](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task1)
  - Final Lab Task 2: [Transforming ER into Relational Tables](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%202)
  - Final Lab Task 3: [Table Manipulation](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%203)
- - Final Lab Task 4: [Table Manipulation](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%204)
- - Final Lab Task 5: [Table Manipulation](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%205)
+ - Final Lab Task 4: [Using MYSQL Clause](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%204)
+ - Final Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://github.com/sengutts/EDM--Midterm-Lab-Task/tree/main/Final%20Lab%20Task%205)
