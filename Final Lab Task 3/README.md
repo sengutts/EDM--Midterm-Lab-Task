@@ -11,20 +11,14 @@ Add three fields:
 2. ### Add a Rule
 Add a CHECK constraint to make sure the price is more than 0.
 3. ### Insert Valid Products
-* Only add products with a positive price:
++ Only add products with a positive price:
 
 Laptop – 999.99
-
 Smartphone – 599.99
-
 Tablet – 299.99
-
 Keyboard – 19.99
-
 Mouse – 14.99
-
 Desk Lamp – 24.99
-
 Speakers – 9.99
 
 Skip items with negative prices.
