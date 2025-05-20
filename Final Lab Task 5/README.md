@@ -3,7 +3,7 @@ In this portfolio, I showcase how I used SQL views, stored procedures, and funct
 
 ### Step by Step Process
 #### Step 1
- Create a VIEW that will display the vendors_code, vendors name, product description p_indate, of all products with p_indate from 2002 onwards
++ Create a VIEW that will display the vendors_code, vendors name, product description p_indate, of all products with p_indate from 2002 onwards
 #### Step 2
 - Create a VIEW that will display all products whose price range is between 100-150
 #### Step 3
