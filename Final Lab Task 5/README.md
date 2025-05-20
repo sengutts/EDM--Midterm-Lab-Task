@@ -1,4 +1,4 @@
-Finals Lab Task 5 - Using SQL views and Stored Procedures and Stored Functions
+## Finals Lab Task 5 - Using SQL views and Stored Procedures and Stored Functions
 In this portfolio, I showcase how I used SQL views, stored procedures, and functions to handle and work with database data. I included examples like using views to filter information, stored procedures to update records, and functions to pull specific data.
 
 ### Step by Step Process
