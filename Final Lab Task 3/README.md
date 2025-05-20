@@ -31,7 +31,7 @@ Add a CHECK constraint to make sure the price is more than 0.
 
 Update the Table
 
-*** Change the product_name field to allow up to 120 characters. ***
+- Change the ***product_name*** field to allow up to 120 characters.
 
 Query Statements
 1. Task 1
