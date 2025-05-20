@@ -36,23 +36,29 @@ Update the Table
 Query Statements
 ### Task 1
      
-<img src="Images/Task1_1.png" alt="Alt Text" width="700" height="300"> 
+<img src="Images/Task1_1.png" alt="Alt Text" width="500" height="300"> 
 
 ### Task 2
   
-<img src="Images/Task2_2.png" alt="Alt Text" width="700" height="300"> 
+<img src="Images/Task2_2.png" alt="Alt Text" width="500" height="300"> 
 
 ### Task 3  
-<img src="Images/Task3_3.png" alt="Alt Text" width="700" height="300"> 
+<img src="Images/Task3_3.png" alt="Alt Text" width="500" height="300"> 
 
 ### Task 4
-<img src="Images/Task4_4.png" alt="Alt Text" width="700" height="300"> 
+<img src="Images/Task4_4.png" alt="Alt Text" width="500" height="300"> 
 
 ### Table Structure
-<img src="Images/Task1-1_TS.png" alt="Alt Text" width="700" height="300">
-<img src="Images/Task3-4_TS.png" alt="Alt Text" width="700" height="300">
+<img src="Images/Task1-1_TS.png" alt="Alt Text" width="500" height="300">
+<img src="Images/Task3-4_TS.png" alt="Alt Text" width="500" height="300">
 
 ### ER Diagram
 
-<img src="Images/Task_ERD.png" alt="Alt Text" width="700" height="300">
+<img src="Images/Task_ERD.png" alt="Alt Text" width="500" height="300">
 
+## SQL Copy of Database and Table Structures
+To export, in MySQL Workbench:
+
+Go to Server > Data Export > Export to Self-Contained File (.sql) and select only the structure option.
+
+📍: [SQL FINALS LAB TASK 3](http://github.com/sengutts/EDM--Midterm-Lab-Task/blob/main/Final%20Lab%20Task%203/mySQL)
