@@ -34,14 +34,18 @@ Update the Table
 - Change the ***product_name*** field to allow up to 120 characters.
 ## Screenshots
 Query Statements
-1. Task 1
-
-2. Task 2
-
-3. Task 3
-
-4. Task 4
-
+- 1. Task 1
+<img src="Images/Task1_1.png" alt="Alt Text" width="700" height="300"> 
+- 2 Task 2
+<img src="Images/Task2_2.png" alt="Alt Text" width="700" height="300"> 
+- 3. Task 3
+<img src="Images/Task3_3.png" alt="Alt Text" width="700" height="300"> 
+- 4. Task 4
+<img src="Images/Task4_4.png" alt="Alt Text" width="700" height="300"> 
 Table Structure
+<img src="Images/Task1-1_TS.png" alt="Alt Text" width="700" height="300">
+<img src="Images/Task3-4_TS.png" alt="Alt Text" width="700" height="300">
 
 ER Diagram
+<img src="Images/Task_ERD.png" alt="Alt Text" width="700" height="300">
+
