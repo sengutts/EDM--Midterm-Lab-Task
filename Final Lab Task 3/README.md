@@ -1,8 +1,12 @@
 ## Finals-Lab-Task-3
 This portfolio is about learning MySQL by creating and managing a product database. It includes simple tasks like making a table, adding rules, inserting correct data, and changing a field. The goal is to understand how to build and organize a database using basic SQL.
 Step by Step Process:
-Create the Table
-
+### Create the Table
+Make a table named products.
+Add three fields:
+- id (auto-increment and primary key)
+- product_name (text up to 100 characters, cannot be empty)
+- price (decimal number)
 Make a table named products.
 Add three fields:
 id (auto-increment and primary key)
