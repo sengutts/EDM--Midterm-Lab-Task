@@ -80,3 +80,5 @@ USE employeeDB;
 ```SELECT COUNT(employee_id) AS number_of_employees FROM EmployeeData;```
 
 ![image](https://github.com/user-attachments/assets/9f49d438-3604-4667-a5a0-f69fa98be6bd)
+
+![image](https://github.com/user-attachments/assets/f7964ecf-5a42-4a54-89a8-549e69a03ec1)
